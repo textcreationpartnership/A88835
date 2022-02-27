@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloudy fight at sea between the Parliaments Navy, under the command of General Blake; and the Dutch fleet, commanded by the Lord Admiral Van-Trump. With the true particulars thereof; the takeing of 21 men of war, 150 busses, 4000 prisoners; and the sinking, burning, and dispersing about threescore more of the Hollanders : the new oath taken by the Dutch; the advance of Vantrump; the engaging of the Engelish [sic]; and the taking of the Sampson of London, worth four hundred thousand pounds. Also, the bringing in of the East-India fleet to Plymouth, by Sir George Ayscue; and four rich merchants taken, bound for Holland. Examined by the original papers, sent to the councel of state on Sunday last; and published by authority.</title>
+            <author>Lawson, John, Sir, d. 1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88835</idno>
+            <idno type="STC">Wing L719B</idno>
+            <idno type="STC">Thomason E673_2</idno>
+            <idno type="STC">ESTC R6870</idno>
+            <idno type="EEBO-CITATION">99873047</idno>
+            <idno type="PROQUEST">99873047</idno>
+            <idno type="VID">166251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166251)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E673[2], 247:E673[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloudy fight at sea between the Parliaments Navy, under the command of General Blake; and the Dutch fleet, commanded by the Lord Admiral Van-Trump. With the true particulars thereof; the takeing of 21 men of war, 150 busses, 4000 prisoners; and the sinking, burning, and dispersing about threescore more of the Hollanders : the new oath taken by the Dutch; the advance of Vantrump; the engaging of the Engelish [sic]; and the taking of the Sampson of London, worth four hundred thousand pounds. Also, the bringing in of the East-India fleet to Plymouth, by Sir George Ayscue; and four rich merchants taken, bound for Holland. Examined by the original papers, sent to the councel of state on Sunday last; and published by authority.</title>
+                  <author>Lawson, John, Sir, d. 1665.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Fielding,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on page 5: Aboard the Lyon neer the sound, July 26, 1652. J. Lawson.</note>
+                  <note>Annotation on Thomason copy: "July" (crossed out); "August. 3."</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Ayscue, George, --  Sir, fl. 1646-1671.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Naval operations --  Early works to 1800.</term>
+               <term>Netherlands --  History, Naval --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166251:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <p>A great and bloudy FIGHT AT SEA Between the Parliaments Navy, under the Command of General Blake; and the Dutch Fleet, commanded by the Lord Admiral VAN-TRUMP.</p>
+            <p>With the true particulars thereof; the take<g ref="char:EOLhyphen"/>ing of 21 Men of War, 150 Buſſes, 4000 pri<g ref="char:EOLhyphen"/>ſoners; and the ſinking, burning, and diſperſing about threeſcore more of the Hollanders:</p>
+            <p>The new Oath taken by the Dutch; the advance of Vantrump; the engaging of the Enge<g ref="char:EOLhyphen"/>liſh; and the taking of the Sampſon of London, worth four hundred thouſand pounds.</p>
+            <p>Alſo, the bringing in of the Eaſt-India Fleet to Ply<g ref="char:EOLhyphen"/>mouth, by Sir George Ayſcue; and four rich Mer<g ref="char:EOLhyphen"/>chants taken, bound for Holland.</p>
+            <p>Examined by the Original Papers, ſent to the Councel of State on Sunday laſt; and publiſhed by Authority.</p>
+            <p>London, Printed for J. Fielding. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166251:2"/>
+            <!-- PDF PAGE 31 -->
+            <pb n="3" facs="tcp:166251:2"/>
+            <!-- PDF PAGE 31 -->
+            <head>A MESSAGE SENT To the Councel of State, from his Excel<g ref="char:EOLhyphen"/>lency General Blake, concerning the laſt bloudy fight at Sea between the Engliſh and the Dutch.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <seg rend="decorInit">O</seg>N Sunday laſt being the firſt of this inſtant Auguſt, came Letters to the Councel of State (to the great joy of their long expectance) from General Blake, intimating, That upon the return of his Scouts with advertiſements, of the neer
+<pb n="4" facs="tcp:166251:3"/>
+                     <!-- PDF PAGE 32 -->
+approach of Vantrump, preparations were made to receive them; and accordingly on the 24 of July laſt, both Navies engaged, and the Generals bearing up to each other, let fly ſeveral broad ſides; inſo<g ref="char:EOLhyphen"/>much that great execution was done on both ſides; Major Bourn (the Rear-Admiral) ſeeing the Reſo<g ref="char:EOLhyphen"/>lu<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion ſomewhat engaged, bare up to the head of Vantrump, and preſented him with ſeveral thunde<g ref="char:EOLhyphen"/>ring ſalutes; and with great fury and reſolution was the conflict diſputed, which continued for the ſpace of ſeven hours; during which time, Victory ſeemed dubious; but about the eighth hour, the Lord was pleaſed graciouſly to appear for Us, and to crown Us with a glorious ſucceſs, to wit: That although they far exceeded us in number; yet it pleaſed God (after a bloudy fight,) that we took nine, ſunk two, fir'd one, the reſt declined engagement, untill ſuch time that the reſt of the Fleet came up, theſe being onely two particular Squadrons; We ſhall expect the deciſion of the fatal blow ſuddenly; for both Navies are engaged.</p>
+                  <p>Our General even upon this very inſtant of time likewiſe engaged their other Fleet, who conſiſted of 25 Men of War, being a Guard for the Buſſes, and for ſafety betook them to a Bay, called Braſeys Sound in Shotland; who bearing up to them, at the Mouth of the Sound the Dutch-men prepared to
+<pb n="5" facs="tcp:166251:3"/>
+                     <!-- PDF PAGE 32 -->
+receive them; ſo that upon engagement, the diſpute was maintained with great alacrity and reſolution, yet the ſucceſs proved fatal to Mr. Launſman; For after a deſperate engagement, we ſunk three gallant Men of War, took twelve, beſides one hundred and fifty Buſſes; but not without loſs; for many of our men are killed and wounded, and divers of our ſhips rent and torn: theſe Seas have plenty of Maſts and pieces of ſhips floting. We have taken abode four thouſand priſoners, and at leaſt two hundred and fif<g ref="char:EOLhyphen"/>ty pieces of Ordnance.</p>
+                  <p>The Herring-Buſſes in regard they are too low a ſubject for the reſolution of our gallant Navy, are releaſed, and an Oath tendered to the Maſters and Marriners, never more to act or engage any th<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng that may prove to be either prejudicial or deſtru<g ref="char:EOLhyphen"/>ctive to the Common-wealth of England. This un<g ref="char:EOLhyphen"/>couth dealing from an enemy, has ſo wrought upon the Dutch ſpirits, that they begin to be almoſt a<g ref="char:EOLhyphen"/>ſhamed of their attempts; firſt, againſt ſo truſty a friend; ſecondly, againſt ſo gallant an enemy, who unlading what fiſh they had taken, honorably diſ<g ref="char:EOLhyphen"/>miſt them. Sir, the darkneſs of the night, commands the ſubſcription of</p>
+                  <closer>
+                     <signed>Your obliged ſervant, J. Lawſon.</signed>
+                     <dateline>Aboard the Lyon neer the Sound, <date>July 26. 1652.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="6" facs="tcp:166251:4"/>
+               <!-- PDF PAGE 33 -->Since which time, the French men of War, which lay upon the catch between Cantire and Knockfergus, for the ſurpriſal of thoſe Horſe to be conveyed from Ayre to the Highlands, miſſing their purpoſe, by divine Providence, it happened they fell up<g ref="char:EOLhyphen"/>on an Engliſh Frigot of 20 Guns comman<g ref="char:EOLhyphen"/>ded by Captain Thompſon, immediatly they let fly their broad ſides upon him, and the Engliſh men being willing to entertain the hazard, joyned iſſue with them from ten of the clock in the forenoon, till eight in the evening; the conflict was diſputed with great Reſolution on both ſides, but by rea<g ref="char:EOLhyphen"/>ſon of the great advantage of number, they put Captain Thompſon hard to it; yet not<g ref="char:EOLhyphen"/>withſtanding he ſo handſomly ply'd them with ſmal ſhot and Vollies, that he got off with abundance of honour, and made his re<g ref="char:EOLhyphen"/>treat good to the Harbor of Knockfergus, with the loſs of 23 men.</p>
+            <p>
+               <pb n="7" facs="tcp:166251:4"/>
+               <!-- PDF PAGE 33 -->Vantrump lies with 120 ſail of ſhips up<g ref="char:EOLhyphen"/>on the Coaſt of Scotland, and truſſes up the Fiſherboats and Colliers, as a Falcon does wild Ducks; not one can peep out of Newcaſtle or Tinmouth Harbour, but he goes immediatly to the pot. They have cha<g ref="char:EOLhyphen"/>ſed three Merchants, and forced them to run on ground; but that which ſeems moſt dire<g ref="char:EOLhyphen"/>ful, is, their taking of the Sampſon of Lon<g ref="char:EOLhyphen"/>don, a ſhip valued four hundred thouſand pounds, whoſe Lading was ſilkes of rich va<g ref="char:EOLhyphen"/>lue. In lieu whereof, Gen. Blake hath taken three Dutch Merchants ſhips, coming from the Eaſt Indies, valued worth nine hundred thouſand pounds.</p>
+            <p>Thus may we judge by the ſeries of theit Actions, that the Dutch are no more then jugling Timeyſts; and as one ſide takes ſhips and ſecures them, the other takes Buſ<g ref="char:EOLhyphen"/>ſes but never opens them; ſo that in the end the game may prove like a Southwark
+<pb n="8" facs="tcp:166251:5"/>
+               <!-- PDF PAGE 34 -->
+prize (ſay ſome) at the Hope; where a man ſuffers himſelf to be beaten, to gain the halfs of the Cheat; but the acting of this Trage<g ref="char:EOLhyphen"/>dy, ſeemes to be no ſuch Theater; for we are in daily expectation of the deciſion of the fatal blow.</p>
+            <p>Letters from ſir George Ayſcue to the Councel of ſtate advertize, that he hath conveyed and brought ſafe into Plymouth five of the Engliſh Merchants ſhips, richly laden from the Eaſt Indies, and of great va<g ref="char:EOLhyphen"/>lue.</p>
+            <p>The Lord Shandoys hath received his Tryal at Kingſton upon Thames; and, by the Jury, quitted.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
